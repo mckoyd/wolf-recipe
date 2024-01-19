@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/wolf-recipe/static/css/main.0db207e2.css",
+    "main.js": "/wolf-recipe/static/js/main.52b0c4e6.js",
+    "static/media/Outfit-VariableFont_wght.ttf": "/wolf-recipe/static/media/Outfit-VariableFont_wght.00c2ed1a3bf798b0da27.ttf",
+    "static/media/YoungSerif-Regular.ttf": "/wolf-recipe/static/media/YoungSerif-Regular.564996966d3552bf6282.ttf",
+    "static/media/image-omelette.jpeg": "/wolf-recipe/static/media/image-omelette.98c8ed59c5ae707e58ea.jpeg",
+    "static/media/Outfit-SemiBold.ttf": "/wolf-recipe/static/media/Outfit-SemiBold.ea851e9b6c1d21f620c1.ttf",
+    "static/media/Outfit-Bold.ttf": "/wolf-recipe/static/media/Outfit-Bold.b2e2fcd8bc0c090b302c.ttf",
+    "static/media/Outfit-Black.ttf": "/wolf-recipe/static/media/Outfit-Black.5027173f4209fc26184c.ttf",
+    "static/media/Outfit-ExtraBold.ttf": "/wolf-recipe/static/media/Outfit-ExtraBold.af2c70c8a67f488723d3.ttf",
+    "static/media/Outfit-ExtraLight.ttf": "/wolf-recipe/static/media/Outfit-ExtraLight.8ec1fa62e1640de45a79.ttf",
+    "static/media/Outfit-Regular.ttf": "/wolf-recipe/static/media/Outfit-Regular.e853df41b41bc9489a8b.ttf",
+    "static/media/Outfit-Light.ttf": "/wolf-recipe/static/media/Outfit-Light.27737e30f9f52f95ba31.ttf",
+    "static/media/Outfit-Medium.ttf": "/wolf-recipe/static/media/Outfit-Medium.1d6f1a86e227bec4497d.ttf",
+    "static/media/Outfit-Thin.ttf": "/wolf-recipe/static/media/Outfit-Thin.2036ad775363105e11d7.ttf",
+    "index.html": "/wolf-recipe/index.html",
+    "main.0db207e2.css.map": "/wolf-recipe/static/css/main.0db207e2.css.map",
+    "main.52b0c4e6.js.map": "/wolf-recipe/static/js/main.52b0c4e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0db207e2.css",
+    "static/js/main.52b0c4e6.js"
+  ]
+}
