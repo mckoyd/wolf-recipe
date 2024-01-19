@@ -1,38 +1,129 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.app {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.omelette-img {
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.recipe-section {
+  margin: 2em;
+}
+
+.recipe-title {
+  font-family: "Young-Serif-Regular";
+  font-size: 2em;
+}
+
+.recipe-about {
+  font-family: "Outfit-Thin";
+}
+
+.prep-time-container {
+  background-color: hsl(330, 100%, 98%);
+  font-family: "Outfit-Light";
+  padding: 1em;
+}
+
+.prep-time-title {
+  font-family: "Outfit-SemiBold";
+  color: hsl(332, 51%, 32%);
+  font-size: 1.5em;
+}
+
+.prep-item {
+  padding-left: 1em;
+}
+
+.prep-item::marker {
+  color: hsl(332, 51%, 32%);
+}
+
+.prep-text {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0.5em 0;
+}
+
+.prep-cat {
+  font-family: "Outfit-SemiBold";
+}
+
+.brown-title {
+  font-family: "Young-Serif-Regular";
+  color: hsl(14, 45%, 36%);
+  font-size: 2em;
+}
+
+.ingredient-item::marker {
+  color: hsl(14, 45%, 36%);
+  font-family: "Outfit-Regular";
+}
+
+.ingredients-list {
+  margin: 1em;
+  padding-inline: 0;
+  font-family: "Outfit-Light";
+}
+
+.ingredient-text {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0.5em 0 0.5em 1.5em;
+}
+
+.divider {
+  margin: 0 2em;
+}
+
+.instructions-container {
+  margin: 0 2em 1em 2em;
+}
+
+.instruction-list {
+  font-family: "Outfit-Light";
+  margin: 1em;
+  padding-inline: 0;
+}
+
+.instruction-item::marker {
+  font-family: "Outfit-Bold";
+  color: hsl(14, 45%, 36%);
+}
+
+.instruction-cat {
+  font-family: "Outfit-SemiBold";
+}
+
+.instruction-text {
+  margin-left: 1em;
+}
+
+.nutrition-container {
+  margin: 0 2em;
+}
+
+.nutrition-table {
+  display: flex;
+  flex-direction: column;
+}
+
+.nutrition-row {
+  display: flex;
+  border-bottom: 1px hsl(14, 45%, 36%) solid;
+}
+
+.nutrition-left-cell {
+  width: 50%;
+  padding: 0 2em;
+}
+
+.nutrition-right-cell {
+  width: 50%;
+  color: hsl(332, 51%, 32%);
+  font-family: "Outfit-Bold";
+}
+
+.last {
+  border: none;
 }
